@@ -9,6 +9,6 @@ Simple chrome extension to bold a webpage.
 * Press `b` to toggle bold text.
 ## Examples
 <p float="left">
-  <img src="images/before.png" width="45%" />
-  <img src="images/after.png" width="45%" />
+  <img src="images/before.png" width="50%" />
+  <img src="images/after.png" width="50%" />
 </p>
